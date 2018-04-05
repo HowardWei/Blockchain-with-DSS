@@ -19,6 +19,4 @@ SHA3-224 hash used as hashing function.
 Creates transactions based on blockchain concepts (chain hashing). 
 Creates a pre-image for the SHA3 hash of 24 leading 0 bits for proof of work.
 
-Warning:
-Bad coding practices used - written late at night.
-Not for the self respecting dev
+Warning: ugly code
