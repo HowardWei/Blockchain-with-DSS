@@ -1,6 +1,6 @@
 # SHA3-224 DSS Implementation with Chain-Hashing
 
-Quick implementation playing around with SHA3-224 hashes and digital signatures.
+Quick implementation playing around with SHA3-224 (using BouncyCastle) hashes and digital signatures.
 Also does a little bit of chain hashing mimicing blockchain hashes.
 
 Comes with 3 classes:
