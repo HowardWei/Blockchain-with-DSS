@@ -1,4 +1,4 @@
-# SHA3-224_DSS-Implementation-Chain-Hashing
+# SHA3-224 DSS Implementation with Chain-Hashing
 
 Quick implementation playing around with SHA3-224 hashes and digital signatures.
 Also does a little bit of chain hashing mimicing blockchain hashes.
