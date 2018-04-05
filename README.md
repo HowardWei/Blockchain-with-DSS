@@ -23,7 +23,7 @@ Contains some eclipse generated files
 
 Warning: ugly code
 
-SAMPLE CONSOLE OUTPUT:
+<b>SAMPLE CONSOLE OUTPUT:</b>
 
 Valid system parameters (p, g, q)
 
