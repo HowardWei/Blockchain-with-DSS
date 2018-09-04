@@ -21,6 +21,8 @@ Creates a pre-image for the SHA3 hash of 24 leading 0 bits for proof of work.
 
 Contains some eclipse generated files
 
+Read README.pdf for a more detailed explanation.
+
 Warning: some redundant code
 
 <b>SAMPLE CONSOLE OUTPUT:</b>
